@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="gGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="50%" stop-color="#0099FF" />
+      <stop offset="100%" stop-color="#0052D4" />
+    </linearGradient>
+    <linearGradient id="pGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4EFA8A" />
+      <stop offset="100%" stop-color="#06B6D4" />
+    </linearGradient>
+  </defs>
+  <path d="M 285 85 C 190 70 80 145 70 260 C 60 385 155 455 260 455 C 340 455 405 405 435 340 C 445 320 435 305 410 305 L 360 305 C 335 305 325 325 310 345 C 290 370 250 385 220 380 C 160 370 125 315 130 250 C 135 185 190 140 250 140 C 275 140 300 150 320 165 C 335 175 355 170 365 150 L 380 120 C 390 100 375 80 345 75 Z" fill="url(#gGrad)" />
+  <circle cx="230" cy="320" r="110" fill="#0D44C8" />
+  <circle cx="230" cy="320" r="110" stroke="#38BDF8" stroke-width="3" fill="none" opacity="0.6" />
+  <ellipse cx="230" cy="325" rx="145" ry="38" stroke="#FFFFFF" stroke-width="4" fill="none" opacity="0.9" transform="rotate(-15 230 325)" />
+  <!-- Pin -->
+  <path d="M 230 290 C 215 270 212 258 212 248 C 212 236 221 228 230 228 C 239 228 248 236 248 248 C 248 258 245 270 230 290 Z" fill="#EF4444" />
+  <circle cx="230" cy="248" r="6" fill="#FFFFFF" />
+  <!-- Plus -->
+  <rect x="415" y="240" width="28" height="96" rx="14" fill="url(#pGrad)" />
+  <rect x="381" y="274" width="96" height="28" rx="14" fill="url(#pGrad)" />
+  <!-- Sun & Cloud -->
+  <circle cx="280" cy="120" r="24" fill="#F59E0B" />
+  <path d="M 265 150 C 265 138 278 128 292 128 C 296 115 310 106 325 110 C 338 113 346 125 345 140 C 356 140 365 150 364 162 C 363 172 353 178 340 178 L 275 178 C 262 178 255 168 255 159 C 255 153 260 150 265 150 Z" fill="#E0F2FE" />
+</svg>

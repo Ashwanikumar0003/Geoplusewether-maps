@@ -1,0 +1,10 @@
+{
+  "name": "GeoPluse",
+  "description": "Modern, production-ready weather forecasting and maps web application featuring real-time meteorological metrics, interactive mapping, routing, air quality, and place discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
